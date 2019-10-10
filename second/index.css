@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    padding: 20px
+    
+  }
+  
+  
+  .borderOne {
+    width: 100%;
+    border: 5px solid;
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  
+  .firstsquare {
+    height: 150px;
+    width: 45px;
+    background: blueviolet;
+    display: inline-block;
+    
+    
+  }
+
+
+  .secondSquare {
+      width: 450px;
+      height: 200px;
+      display: inline-block;
+      background: green;
+      margin: 0 50px;
+      
+
+
+      
+  }
+
+  .circle{
+      border-radius: 50%;
+      background: lightskyblue;
+      height: 200px;
+      width: 200px;
+      display: inline-block;
+  }
+  
+.borderTwo{
+    width: 100%;
+    border: 5px dotted;
+    padding: 30px;
+    box-sizing: border-box;
+    margin-top: 30px;
+}
+
+.box {
+    width: 100%;
+    height: 200px;
+    background: lightyellow;
+ 
+}
+
+.bottombox{
+       width: 50%;
+        border: 1px solid #ccc;
+        background-color: white;
+        padding: 50px;
+        box-sizing: border-box ;
+        margin: 25px auto; 
+    
+          
+        
+      }
+      
+      .bottombox h1 {
+        width: 100%;
+        text-align: center;
+        color: navy;
+        
+      }
